@@ -77,13 +77,3 @@ The plugin caches risk scores on order save and only recalculates when an orderâ
 First version. No upgrade actions necessary.
 
 ---
-
-## Plugin URI
-
-https://github.com/skazgr/woocommerce-order-risk-analyzer
-
----
-
-## Author URI
-
-https://github.com/skazgr
