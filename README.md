@@ -54,8 +54,11 @@ The plugin caches risk scores on order save and only recalculates when an orderâ
 
 ## Screenshots
 
-1. Settings page accordion UI  
-2. Orders list risk badge & popover
+1. **Orders list risk badge & popover**  
+![Orders List](https://github.com/skazgr/woocommerce-order-risk-analyzer/raw/main/order%20list.png)
+
+2. **Settings page accordion UI**  
+![Settings Page](https://github.com/skazgr/woocommerce-order-risk-analyzer/raw/main/settings%20page.png)
 
 ---
 
