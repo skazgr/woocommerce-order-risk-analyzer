@@ -1,0 +1,26 @@
+.wc-risk-indicator {
+    font-weight: bold;
+    cursor: pointer;
+    padding: 0.3em 0.6em;
+    border-radius: 0.35rem;
+    font-size: 0.9em;
+    display: inline-block;
+}
+
+/* Override popover max-width for better appearance */
+.popover {
+    max-width: 320px !important;
+}
+
+/* Popover body tweaks */
+.popover-body {
+    padding: 10px 15px;
+    font-size: 14px;
+    color: #222;
+}
+
+/* Bullet styling inside popover content */
+.popover-body div {
+    margin-bottom: 6px;
+    font-weight: 500;
+}

@@ -1,0 +1,8 @@
+.bootstrap-wrapper {
+    font-size: 14px;
+}
+
+.bootstrap-wrapper .badge {
+    font-size: 12px;
+    padding: 5px 10px;
+}
